@@ -1,4 +1,4 @@
-package com.mkyong.user.action;
+package com.demo.user.action;
 
 public class WelcomeUserAction{
 
