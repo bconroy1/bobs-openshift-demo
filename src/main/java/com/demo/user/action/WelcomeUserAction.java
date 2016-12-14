@@ -15,7 +15,7 @@ public class WelcomeUserAction{
 	// all struts logic here
 	public String execute() {
 
-		return "SUCCESS";
+		return "SUCCESS"; 
 
 	}
 }
